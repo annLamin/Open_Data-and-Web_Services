@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbp="http://dbpedia.org/ontology/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:sch="https://schema.org/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://odws.univaq.it/covidcasereport/0">
+	<dbp:country>United State of America</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q30</dbp:sameascountry>
+	<dbp:continent>North America</dbp:continent>
+	<dbp:sameascontinent>https://www.wikidata.org/wiki/Q49</dbp:sameascontinent>
+	<dbp:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">331198130</dbp:population>
+	<dbp:totalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5032179</dbp:totalcases>
+	<dbp:totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#int">162804</dbp:totaldeaths>
+	<dbp:criticalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18296</dbp:criticalcases>
+	<dbp:casespermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15194</dbp:casespermillionpeople>
+	<dbp:deathspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">492</dbp:deathspermillionpeople>
+	<dbp:totaltests rdf:datatype="http://www.w3.org/2001/XMLSchema#int">63139605</dbp:totaltests>
+	<dbp:testspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">190640</dbp:testspermillionpeople>
+	<dbp:whoregion>Americas</dbp:whoregion>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/covidcasereport/1">
+	<dbp:country>India</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q668</dbp:sameascountry>
+	<dbp:continent>Asia</dbp:continent>
+	<dbp:sameascontinent>https://www.wikidata.org/wiki/Q48</dbp:sameascontinent>
+	<dbp:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1381344997</dbp:population>
+	<dbp:totalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2025409</dbp:totalcases>
+	<dbp:totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#int">41638</dbp:totaldeaths>
+	<dbp:criticalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8944</dbp:criticalcases>
+	<dbp:casespermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1466</dbp:casespermillionpeople>
+	<dbp:deathspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</dbp:deathspermillionpeople>
+	<dbp:totaltests rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22149351</dbp:totaltests>
+	<dbp:testspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16035</dbp:testspermillionpeople>
+	<dbp:whoregion>South-EastAsia</dbp:whoregion>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/covidcasereport/2">
+	<dbp:country>Spain</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q29</dbp:sameascountry>
+	<dbp:continent>Europe</dbp:continent>
+	<dbp:sameascontinent>https://www.wikidata.org/wiki/Q46</dbp:sameascontinent>
+	<dbp:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">46756648</dbp:population>
+	<dbp:totalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">354530</dbp:totalcases>
+	<dbp:totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28500</dbp:totaldeaths>
+	<dbp:criticalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">617</dbp:criticalcases>
+	<dbp:casespermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7582</dbp:casespermillionpeople>
+	<dbp:deathspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">610</dbp:deathspermillionpeople>
+	<dbp:totaltests rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7064329</dbp:totaltests>
+	<dbp:testspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">151087</dbp:testspermillionpeople>
+	<dbp:whoregion>Europe</dbp:whoregion>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/covidcasereport/3">
+	<dbp:country>United Kingdom</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q145</dbp:sameascountry>
+	<dbp:continent>Europe</dbp:continent>
+	<dbp:sameascontinent>https://www.wikidata.org/wiki/Q46</dbp:sameascontinent>
+	<dbp:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">67922029</dbp:population>
+	<dbp:totalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">308134</dbp:totalcases>
+	<dbp:totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#int">46413</dbp:totaldeaths>
+	<dbp:criticalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">73</dbp:criticalcases>
+	<dbp:casespermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4537</dbp:casespermillionpeople>
+	<dbp:deathspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">683</dbp:deathspermillionpeople>
+	<dbp:totaltests rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17515234</dbp:totaltests>
+	<dbp:testspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">257873</dbp:testspermillionpeople>
+	<dbp:whoregion>Europe</dbp:whoregion>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/covidcasereport/4">
+	<dbp:country>Germany</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q183</dbp:sameascountry>
+	<dbp:continent>Europe</dbp:continent>
+	<dbp:sameascontinent>https://www.wikidata.org/wiki/Q46</dbp:sameascontinent>
+	<dbp:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">83811260</dbp:population>
+	<dbp:totalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">215210</dbp:totalcases>
+	<dbp:totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9252</dbp:totaldeaths>
+	<dbp:criticalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">236</dbp:criticalcases>
+	<dbp:casespermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2568</dbp:casespermillionpeople>
+	<dbp:deathspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">110</dbp:deathspermillionpeople>
+	<dbp:totaltests rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8586648</dbp:totaltests>
+	<dbp:testspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">102452</dbp:testspermillionpeople>
+	<dbp:whoregion>Europe</dbp:whoregion>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/covidcasereport/5">
+	<dbp:country>France</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q142</dbp:sameascountry>
+	<dbp:continent>Europe</dbp:continent>
+	<dbp:sameascontinent>https://www.wikidata.org/wiki/Q46</dbp:sameascontinent>
+	<dbp:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">65288306</dbp:population>
+	<dbp:totalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">195633</dbp:totalcases>
+	<dbp:totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30312</dbp:totaldeaths>
+	<dbp:criticalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">384</dbp:criticalcases>
+	<dbp:casespermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2996</dbp:casespermillionpeople>
+	<dbp:deathspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">464</dbp:deathspermillionpeople>
+	<dbp:totaltests rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3992206</dbp:totaltests>
+	<dbp:testspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">61147</dbp:testspermillionpeople>
+	<dbp:whoregion>Europe</dbp:whoregion>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/covidcasereport/6">
+	<dbp:country>Japan</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q17</dbp:sameascountry>
+	<dbp:continent>Asia</dbp:continent>
+	<dbp:sameascontinent>https://www.wikidata.org/wiki/Q48</dbp:sameascontinent>
+	<dbp:population rdf:datatype="http://www.w3.org/2001/XMLSchema#int">126435859</dbp:population>
+	<dbp:totalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">42263</dbp:totalcases>
+	<dbp:totaldeaths rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1026</dbp:totaldeaths>
+	<dbp:criticalcases rdf:datatype="http://www.w3.org/2001/XMLSchema#int">115</dbp:criticalcases>
+	<dbp:casespermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">334</dbp:casespermillionpeople>
+	<dbp:deathspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</dbp:deathspermillionpeople>
+	<dbp:totaltests rdf:datatype="http://www.w3.org/2001/XMLSchema#int">938739</dbp:totaltests>
+	<dbp:testspermillionpeople rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7425</dbp:testspermillionpeople>
+	<dbp:whoregion>WesternPacific</dbp:whoregion>
+</rdf:Description>
+
+</rdf:RDF>

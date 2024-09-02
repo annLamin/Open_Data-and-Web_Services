@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbp="http://dbpedia.org/ontology/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:sch="https://schema.org/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/0">
+	<dbp:stockindex>NASDAQ</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q575782</dbp:sameasstockindex>
+	<dbp:country>United States of America</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q30</dbp:sameascountry>
+	<dbp:year>2018-01-01</dbp:year>
+	<dbp:indexprice>7425.96</dbp:indexprice>
+	<dbp:logindexprice>3.87</dbp:logindexprice>
+	<dbp:inflationrate>0.02</dbp:inflationrate>
+	<dbp:oilprices>49.52</dbp:oilprices>
+	<dbp:exchangerate>0</dbp:exchangerate>
+	<dbp:gdppercent>0.03</dbp:gdppercent>
+	<dbp:perCapitaIncome>63064</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>256.36</dbp:manufacturingoutput>
+	<dbp:tradebalance>-609.46</dbp:tradebalance>
+	<dbp:ustreasury>0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/1">
+	<dbp:stockindex>NASDAQ</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q575782</dbp:sameasstockindex>
+	<dbp:country>United States of America</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q30</dbp:sameascountry>
+	<dbp:year>2019-01-01</dbp:year>
+	<dbp:indexprice>7940.36</dbp:indexprice>
+	<dbp:logindexprice>3.9</dbp:logindexprice>
+	<dbp:inflationrate>0.02</dbp:inflationrate>
+	<dbp:oilprices>59.88</dbp:oilprices>
+	<dbp:exchangerate>0</dbp:exchangerate>
+	<dbp:gdppercent>0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome>65280</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>245.75</dbp:manufacturingoutput>
+	<dbp:tradebalance>-610.47</dbp:tradebalance>
+	<dbp:ustreasury>0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/2">
+	<dbp:stockindex>NASDAQ</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q575782</dbp:sameasstockindex>
+	<dbp:country>United States of America</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q30</dbp:sameascountry>
+	<dbp:year>2020-01-01</dbp:year>
+	<dbp:indexprice>10201.51</dbp:indexprice>
+	<dbp:logindexprice>4.01</dbp:logindexprice>
+	<dbp:inflationrate>0.01</dbp:inflationrate>
+	<dbp:oilprices>47.02</dbp:oilprices>
+	<dbp:exchangerate>0</dbp:exchangerate>
+	<dbp:gdppercent>-0.03</dbp:gdppercent>
+	<dbp:perCapitaIncome>63544</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.08</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>227.14</dbp:manufacturingoutput>
+	<dbp:tradebalance>0</dbp:tradebalance>
+	<dbp:ustreasury>0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/3">
+	<dbp:stockindex>FTSE 100</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q466496</dbp:sameasstockindex>
+	<dbp:country>United Kingdom</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q145</dbp:sameascountry>
+	<dbp:year>2018-01-01</dbp:year>
+	<dbp:indexprice>6728.13</dbp:indexprice>
+	<dbp:logindexprice>3.83</dbp:logindexprice>
+	<dbp:inflationrate>0.02</dbp:inflationrate>
+	<dbp:oilprices>49.52</dbp:oilprices>
+	<dbp:exchangerate>1.34</dbp:exchangerate>
+	<dbp:gdppercent>0.01</dbp:gdppercent>
+	<dbp:perCapitaIncome>42996</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>256.36</dbp:manufacturingoutput>
+	<dbp:tradebalance>-34</dbp:tradebalance>
+	<dbp:ustreasury>0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/4">
+	<dbp:logindexprice>3.88</dbp:logindexprice>
+	<dbp:inflationrate>0.02</dbp:inflationrate>
+	<dbp:ustreasury>0.02</dbp:ustreasury>
+	<dbp:oilprices>59.88</dbp:oilprices>
+	<dbp:exchangerate>1.28</dbp:exchangerate>
+	<dbp:gdppercent>0.01</dbp:gdppercent>
+	<dbp:unemploymentrate>0.04</dbp:unemploymentrate>
+	<dbp:stockindex>FTSE 100</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q466496</dbp:sameasstockindex>
+	<dbp:country>United Kingdom</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q145</dbp:sameascountry>
+	<dbp:manufacturingoutput>245.75</dbp:manufacturingoutput>
+	<dbp:year>2019-01-01</dbp:year>
+	<dbp:perCapitaIncome>42354</dbp:perCapitaIncome>
+	<dbp:tradebalance>-35.06</dbp:tradebalance>
+	<dbp:indexprice>7542.44</dbp:indexprice>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/5">
+	<dbp:stockindex>FTSE 100</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q466496</dbp:sameasstockindex>
+	<dbp:country>United Kingdom</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q145</dbp:sameascountry>
+	<dbp:year>2020-01-01</dbp:year>
+	<dbp:indexprice>6460.52</dbp:indexprice>
+	<dbp:logindexprice>3.81</dbp:logindexprice>
+	<dbp:inflationrate>0.01</dbp:inflationrate>
+	<dbp:oilprices>47.02</dbp:oilprices>
+	<dbp:exchangerate>1.28</dbp:exchangerate>
+	<dbp:gdppercent>-0.1</dbp:gdppercent>
+	<dbp:perCapitaIncome>40285</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>227.14</dbp:manufacturingoutput>
+	<dbp:tradebalance>-9.69</dbp:tradebalance>
+	<dbp:ustreasury>0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/6">
+	<dbp:stockindex>Nifty 50</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q1853402</dbp:sameasstockindex>
+	<dbp:country>India</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q668</dbp:sameascountry>
+	<dbp:year>2018-01-01</dbp:year>
+	<dbp:indexprice>36068.33</dbp:indexprice>
+	<dbp:logindexprice>4.56</dbp:logindexprice>
+	<dbp:inflationrate>0.04</dbp:inflationrate>
+	<dbp:oilprices>49.52</dbp:oilprices>
+	<dbp:exchangerate>68.37</dbp:exchangerate>
+	<dbp:gdppercent>0.07</dbp:gdppercent>
+	<dbp:perCapitaIncome>1997</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>401.2</dbp:manufacturingoutput>
+	<dbp:tradebalance>-100.38</dbp:tradebalance>
+	<dbp:ustreasury>0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/7">
+	<dbp:stockindex>Nifty 50</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q1853402</dbp:sameasstockindex>
+	<dbp:country>India</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q668</dbp:sameascountry>
+	<dbp:year>2019-01-01</dbp:year>
+	<dbp:indexprice>41253.74</dbp:indexprice>
+	<dbp:logindexprice>4.62</dbp:logindexprice>
+	<dbp:inflationrate>0.04</dbp:inflationrate>
+	<dbp:oilprices>59.88</dbp:oilprices>
+	<dbp:exchangerate>70.38</dbp:exchangerate>
+	<dbp:gdppercent>0.04</dbp:gdppercent>
+	<dbp:perCapitaIncome>2101</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.07</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>382.56</dbp:manufacturingoutput>
+	<dbp:tradebalance>-72.57</dbp:tradebalance>
+	<dbp:ustreasury>0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/8">
+	<dbp:stockindex>Nifty 50</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q1853402</dbp:sameasstockindex>
+	<dbp:country>India</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q668</dbp:sameascountry>
+	<dbp:year>2020-01-01</dbp:year>
+	<dbp:indexprice>47751.33</dbp:indexprice>
+	<dbp:logindexprice>4.68</dbp:logindexprice>
+	<dbp:inflationrate>0.07</dbp:inflationrate>
+	<dbp:oilprices>47.02</dbp:oilprices>
+	<dbp:exchangerate>74.14</dbp:exchangerate>
+	<dbp:gdppercent>-0.08</dbp:gdppercent>
+	<dbp:perCapitaIncome>1901</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.06</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>339.98</dbp:manufacturingoutput>
+	<dbp:tradebalance>-8.31</dbp:tradebalance>
+	<dbp:ustreasury>0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/9">
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q507338</dbp:sameasstockindex>
+	<dbp:country>Japan</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q17</dbp:sameascountry>
+	<dbp:year>2018-01-01</dbp:year>
+	<dbp:ustreasury>0.03</dbp:ustreasury>
+	<dbp:indexprice>22310.73</dbp:indexprice>
+	<dbp:logindexprice>4.35</dbp:logindexprice>
+	<dbp:inflationrate>0.01</dbp:inflationrate>
+	<dbp:oilprices>49.52</dbp:oilprices>
+	<dbp:exchangerate>110.43</dbp:exchangerate>
+	<dbp:unemploymentrate>0.03</dbp:unemploymentrate>
+	<dbp:gdppercent>0</dbp:gdppercent>
+	<dbp:manufacturingoutput>103.91</dbp:manufacturingoutput>
+	<dbp:perCapitaIncome>39159</dbp:perCapitaIncome>
+	<dbp:tradebalance>11.56</dbp:tradebalance>
+	<dbp:stockindex>Nikkei 225</dbp:stockindex>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/10">
+	<dbp:stockindex>Nikkei 225</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q507338</dbp:sameasstockindex>
+	<dbp:country>Japan</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q17</dbp:sameascountry>
+	<dbp:year>2019-01-01</dbp:year>
+	<dbp:indexprice>21697.23</dbp:indexprice>
+	<dbp:logindexprice>4.34</dbp:logindexprice>
+	<dbp:inflationrate>0</dbp:inflationrate>
+	<dbp:oilprices>59.88</dbp:oilprices>
+	<dbp:exchangerate>109.03</dbp:exchangerate>
+	<dbp:gdppercent>0</dbp:gdppercent>
+	<dbp:perCapitaIncome>40113</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.02</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>101.19</dbp:manufacturingoutput>
+	<dbp:tradebalance>8.66</dbp:tradebalance>
+	<dbp:ustreasury>0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/11">
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q507338</dbp:sameasstockindex>
+	<dbp:country>Japan</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q17</dbp:sameascountry>
+	<dbp:gdppercent>-0.05</dbp:gdppercent>
+	<dbp:perCapitaIncome>0</dbp:perCapitaIncome>
+	<dbp:year>2020-01-01</dbp:year>
+	<dbp:indexprice>22705.02</dbp:indexprice>
+	<dbp:logindexprice>4.36</dbp:logindexprice>
+	<dbp:inflationrate>0</dbp:inflationrate>
+	<dbp:oilprices>47.02</dbp:oilprices>
+	<dbp:exchangerate>106.76</dbp:exchangerate>
+	<dbp:stockindex>Nikkei 225</dbp:stockindex>
+	<dbp:unemploymentrate>0.03</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>90.94</dbp:manufacturingoutput>
+	<dbp:tradebalance>0</dbp:tradebalance>
+	<dbp:ustreasury>0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/12">
+	<dbp:stockindex>SZCOMP</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q517750</dbp:sameasstockindex>
+	<dbp:country>China</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q148</dbp:sameascountry>
+	<dbp:year>2018-01-01</dbp:year>
+	<dbp:indexprice>2920.18</dbp:indexprice>
+	<dbp:logindexprice>3.47</dbp:logindexprice>
+	<dbp:inflationrate>0.02</dbp:inflationrate>
+	<dbp:oilprices>49.52</dbp:oilprices>
+	<dbp:exchangerate>6.61</dbp:exchangerate>
+	<dbp:gdppercent>0.07</dbp:gdppercent>
+	<dbp:perCapitaIncome>9977</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>3868.46</dbp:manufacturingoutput>
+	<dbp:tradebalance>106.71</dbp:tradebalance>
+	<dbp:ustreasury>0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/13">
+	<dbp:stockindex>SZCOMP</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q517750</dbp:sameasstockindex>
+	<dbp:country>China</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q148</dbp:sameascountry>
+	<dbp:year>2019-01-01</dbp:year>
+	<dbp:indexprice>2928.94</dbp:indexprice>
+	<dbp:logindexprice>3.47</dbp:logindexprice>
+	<dbp:inflationrate>0.03</dbp:inflationrate>
+	<dbp:oilprices>59.88</dbp:oilprices>
+	<dbp:exchangerate>6.91</dbp:exchangerate>
+	<dbp:gdppercent>0.06</dbp:gdppercent>
+	<dbp:perCapitaIncome>10217</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>3823.41</dbp:manufacturingoutput>
+	<dbp:tradebalance>164.99</dbp:tradebalance>
+	<dbp:ustreasury>0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/14">
+	<dbp:stockindex>SZCOMP</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q517750</dbp:sameasstockindex>
+	<dbp:country>China</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q148</dbp:sameascountry>
+	<dbp:year>2020-01-01</dbp:year>
+	<dbp:indexprice>3109.78</dbp:indexprice>
+	<dbp:logindexprice>3.49</dbp:logindexprice>
+	<dbp:inflationrate>0.02</dbp:inflationrate>
+	<dbp:oilprices>47.02</dbp:oilprices>
+	<dbp:exchangerate>6.9</dbp:exchangerate>
+	<dbp:gdppercent>0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome>10500</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>3853.81</dbp:manufacturingoutput>
+	<dbp:tradebalance>366.14</dbp:tradebalance>
+	<dbp:ustreasury>0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/15">
+	<dbp:stockindex>DAX 30</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q155718</dbp:sameasstockindex>
+	<dbp:country>Germany</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q183</dbp:sameascountry>
+	<dbp:year>2018-01-01</dbp:year>
+	<dbp:indexprice>10558.96</dbp:indexprice>
+	<dbp:logindexprice>4.02</dbp:logindexprice>
+	<dbp:inflationrate>0.02</dbp:inflationrate>
+	<dbp:oilprices>49.52</dbp:oilprices>
+	<dbp:exchangerate>1.18</dbp:exchangerate>
+	<dbp:gdppercent>0.01</dbp:gdppercent>
+	<dbp:perCapitaIncome>47811</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>795.96</dbp:manufacturingoutput>
+	<dbp:tradebalance>243.72</dbp:tradebalance>
+	<dbp:ustreasury>0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/16">
+	<dbp:stockindex>DAX 30</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q155718</dbp:sameasstockindex>
+	<dbp:country>Germany</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q183</dbp:sameascountry>
+	<dbp:year>2019-01-01</dbp:year>
+	<dbp:indexprice>13249.01</dbp:indexprice>
+	<dbp:logindexprice>4.12</dbp:logindexprice>
+	<dbp:inflationrate>0.01</dbp:inflationrate>
+	<dbp:oilprices>59.88</dbp:oilprices>
+	<dbp:exchangerate>1.12</dbp:exchangerate>
+	<dbp:gdppercent>0.01</dbp:gdppercent>
+	<dbp:perCapitaIncome>46468</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>737.94</dbp:manufacturingoutput>
+	<dbp:tradebalance>223.82</dbp:tradebalance>
+	<dbp:ustreasury>0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/17">
+	<dbp:stockindex>DAX 30</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q155718</dbp:sameasstockindex>
+	<dbp:country>Germany</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q183</dbp:sameascountry>
+	<dbp:year>2020-01-01</dbp:year>
+	<dbp:indexprice>13718.78</dbp:indexprice>
+	<dbp:logindexprice>4.14</dbp:logindexprice>
+	<dbp:inflationrate>0.01</dbp:inflationrate>
+	<dbp:oilprices>47.02</dbp:oilprices>
+	<dbp:exchangerate>1.14</dbp:exchangerate>
+	<dbp:gdppercent>-0.05</dbp:gdppercent>
+	<dbp:perCapitaIncome>45724</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.06</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>678.29</dbp:manufacturingoutput>
+	<dbp:tradebalance>221.53</dbp:tradebalance>
+	<dbp:ustreasury>0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/18">
+	<dbp:stockindex>CAC 40</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q648828</dbp:sameasstockindex>
+	<dbp:country>France</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q142</dbp:sameascountry>
+	<dbp:year>2018-01-01</dbp:year>
+	<dbp:indexprice>4730.69</dbp:indexprice>
+	<dbp:logindexprice>3.67</dbp:logindexprice>
+	<dbp:inflationrate>0.02</dbp:inflationrate>
+	<dbp:oilprices>49.52</dbp:oilprices>
+	<dbp:exchangerate>1.18</dbp:exchangerate>
+	<dbp:gdppercent>0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome>41547</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.09</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>275.76</dbp:manufacturingoutput>
+	<dbp:tradebalance>-29.02</dbp:tradebalance>
+	<dbp:ustreasury>0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/19">
+	<dbp:stockindex>CAC 40</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q648828</dbp:sameasstockindex>
+	<dbp:country>France</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q142</dbp:sameascountry>
+	<dbp:year>2019-01-01</dbp:year>
+	<dbp:indexprice>5978.06</dbp:indexprice>
+	<dbp:logindexprice>3.78</dbp:logindexprice>
+	<dbp:inflationrate>0.01</dbp:inflationrate>
+	<dbp:oilprices>59.88</dbp:oilprices>
+	<dbp:exchangerate>1.12</dbp:exchangerate>
+	<dbp:gdppercent>0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome>40380</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.08</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>266.63</dbp:manufacturingoutput>
+	<dbp:tradebalance>-26.59</dbp:tradebalance>
+	<dbp:ustreasury>0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/20">
+	<dbp:stockindex>CAC 40</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q648828</dbp:sameasstockindex>
+	<dbp:country>France</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q142</dbp:sameascountry>
+	<dbp:year>2020-01-01</dbp:year>
+	<dbp:indexprice>5551.41</dbp:indexprice>
+	<dbp:logindexprice>3.74</dbp:logindexprice>
+	<dbp:inflationrate>0</dbp:inflationrate>
+	<dbp:oilprices>47.02</dbp:oilprices>
+	<dbp:exchangerate>1.14</dbp:exchangerate>
+	<dbp:gdppercent>-0.08</dbp:gdppercent>
+	<dbp:perCapitaIncome>38625</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.08</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>241.71</dbp:manufacturingoutput>
+	<dbp:tradebalance>-57.65</dbp:tradebalance>
+	<dbp:ustreasury>0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/21">
+	<dbp:stockindex>IBEX 35</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q938032</dbp:sameasstockindex>
+	<dbp:country>Spain</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q29</dbp:sameascountry>
+	<dbp:year>2018-01-01</dbp:year>
+	<dbp:indexprice>8539.9</dbp:indexprice>
+	<dbp:logindexprice>3.93</dbp:logindexprice>
+	<dbp:inflationrate>0.02</dbp:inflationrate>
+	<dbp:oilprices>49.52</dbp:oilprices>
+	<dbp:exchangerate>1.18</dbp:exchangerate>
+	<dbp:gdppercent>0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome>30389</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.15</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>158.33</dbp:manufacturingoutput>
+	<dbp:tradebalance>38.7</dbp:tradebalance>
+	<dbp:ustreasury>0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/22">
+	<dbp:stockindex>IBEX 35</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q938032</dbp:sameasstockindex>
+	<dbp:country>Spain</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q29</dbp:sameascountry>
+	<dbp:year>2019-01-01</dbp:year>
+	<dbp:indexprice>9549.2</dbp:indexprice>
+	<dbp:logindexprice>3.98</dbp:logindexprice>
+	<dbp:inflationrate>0.01</dbp:inflationrate>
+	<dbp:oilprices>59.88</dbp:oilprices>
+	<dbp:exchangerate>1.12</dbp:exchangerate>
+	<dbp:gdppercent>0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome>29565</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.14</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>155.49</dbp:manufacturingoutput>
+	<dbp:tradebalance>41.94</dbp:tradebalance>
+	<dbp:ustreasury>0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/23">
+	<dbp:stockindex>IBEX 35</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q938032</dbp:sameasstockindex>
+	<dbp:country>Spain</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q29</dbp:sameascountry>
+	<dbp:year>2020-01-01</dbp:year>
+	<dbp:indexprice>8073.7</dbp:indexprice>
+	<dbp:logindexprice>3.91</dbp:logindexprice>
+	<dbp:inflationrate>0</dbp:inflationrate>
+	<dbp:oilprices>47.02</dbp:oilprices>
+	<dbp:exchangerate>1.14</dbp:exchangerate>
+	<dbp:gdppercent>-0.11</dbp:gdppercent>
+	<dbp:perCapitaIncome>27057</dbp:perCapitaIncome>
+	<dbp:unemploymentrate>0.16</dbp:unemploymentrate>
+	<dbp:manufacturingoutput>143.05</dbp:manufacturingoutput>
+	<dbp:tradebalance>19.1</dbp:tradebalance>
+	<dbp:ustreasury>0.01</dbp:ustreasury>
+</rdf:Description>
+
+</rdf:RDF>

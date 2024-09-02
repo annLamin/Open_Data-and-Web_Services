@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbp="http://dbpedia.org/ontology/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:sch="https://schema.org/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/0">
+	<dbp:stockindex>NASDAQ</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q575782</dbp:sameasstockindex>
+	<dbp:country>United States of America</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q30</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7425.96</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.87</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.52</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">63064</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">256.36</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-609.46</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/1">
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q575782</dbp:sameasstockindex>
+	<dbp:country>United States of America</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q30</dbp:sameascountry>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7940.36</dbp:indexprice>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00Z</dbp:year>
+	<dbp:stockindex>NASDAQ</dbp:stockindex>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.9</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.88</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">65280</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">245.75</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-610.47</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/2">
+	<dbp:stockindex>NASDAQ</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q575782</dbp:sameasstockindex>
+	<dbp:country>United States of America</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q30</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10201.51</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.01</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.02</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.03</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">63544</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.08</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">227.14</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/3">
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q145</dbp:sameascountry>
+	<dbp:stockindex>FTSE 100</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q466496</dbp:sameasstockindex>
+	<dbp:country>United Kingdom</dbp:country>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6728.13</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.83</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.52</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.34</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">42996</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">256.36</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-34</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/4">
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q145</dbp:sameascountry>
+	<dbp:country>United Kingdom</dbp:country>
+	<dbp:stockindex>FTSE 100</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q466496</dbp:sameasstockindex>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7542.44</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.88</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.88</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.28</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">42354</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">245.75</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-35.06</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/5">
+	<dbp:stockindex>FTSE 100</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q466496</dbp:sameasstockindex>
+	<dbp:country>United Kingdom</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q145</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6460.52</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.81</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.02</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.28</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.1</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40285</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">227.14</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-9.69</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/6">
+	<dbp:stockindex>Nifty 50</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q1853402</dbp:sameasstockindex>
+	<dbp:country>India</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q668</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36068.33</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.56</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.52</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">68.37</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.07</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1997</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">401.2</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-100.38</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/7">
+	<dbp:stockindex>Nifty 50</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q1853402</dbp:sameasstockindex>
+	<dbp:country>India</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q668</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41253.74</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.62</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.88</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">70.38</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2101</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.07</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">382.56</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-72.57</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/8">
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.07</dbp:inflationrate>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.68</dbp:logindexprice>
+	<dbp:stockindex>Nifty 50</dbp:stockindex>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.08</dbp:gdppercent>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q1853402</dbp:sameasstockindex>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.02</dbp:oilprices>
+	<dbp:country>India</dbp:country>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">74.14</dbp:exchangerate>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q668</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47751.33</dbp:indexprice>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1901</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.06</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">339.98</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-8.31</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/9">
+	<dbp:stockindex>Nikkei 225</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q507338</dbp:sameasstockindex>
+	<dbp:country>Japan</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q17</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22310.73</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.35</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.52</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">110.43</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">39159</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">103.91</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.56</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/10">
+	<dbp:stockindex>Nikkei 225</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q507338</dbp:sameasstockindex>
+	<dbp:country>Japan</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q17</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21697.23</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.34</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.88</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">109.03</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40113</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">101.19</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.66</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/11">
+	<dbp:stockindex>Nikkei 225</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q507338</dbp:sameasstockindex>
+	<dbp:country>Japan</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q17</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22705.02</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.36</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.02</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">106.76</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.05</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.94</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/12">
+	<dbp:stockindex>SZCOMP</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q517750</dbp:sameasstockindex>
+	<dbp:country>China</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q148</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2920.18</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.47</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.52</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.61</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.07</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9977</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3868.46</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">106.71</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/13">
+	<dbp:country>China</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q148</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00Z</dbp:year>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.06</dbp:gdppercent>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.47</dbp:logindexprice>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2928.94</dbp:indexprice>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.91</dbp:exchangerate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.88</dbp:oilprices>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:inflationrate>
+	<dbp:stockindex>SZCOMP</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q517750</dbp:sameasstockindex>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10217</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3823.41</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">164.99</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/14">
+	<dbp:stockindex>SZCOMP</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q517750</dbp:sameasstockindex>
+	<dbp:country>China</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q148</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3109.78</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.49</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.02</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10500</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3853.81</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">366.14</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/15">
+	<dbp:stockindex>DAX 30</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q155718</dbp:sameasstockindex>
+	<dbp:country>Germany</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q183</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10558.96</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.02</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.52</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.18</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">47811</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">795.96</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">243.72</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/16">
+	<dbp:stockindex>DAX 30</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q155718</dbp:sameasstockindex>
+	<dbp:country>Germany</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q183</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13249.01</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.12</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.88</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.12</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">46468</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.05</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">737.94</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">223.82</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/17">
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13718.78</dbp:indexprice>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q183</dbp:sameascountry>
+	<dbp:stockindex>DAX 30</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q155718</dbp:sameasstockindex>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00Z</dbp:year>
+	<dbp:country>Germany</dbp:country>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.14</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.02</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.14</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.05</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45724</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.06</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">678.29</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">221.53</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/18">
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:inflationrate>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q648828</dbp:sameasstockindex>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.52</dbp:oilprices>
+	<dbp:country>France</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q142</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4730.69</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.67</dbp:logindexprice>
+	<dbp:stockindex>CAC 40</dbp:stockindex>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.18</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">41547</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.09</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">275.76</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-29.02</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/19">
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q648828</dbp:sameasstockindex>
+	<dbp:country>France</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q142</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5978.06</dbp:indexprice>
+	<dbp:stockindex>CAC 40</dbp:stockindex>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.78</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.88</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.12</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40380</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.08</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">266.63</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-26.59</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/20">
+	<dbp:country>France</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q142</dbp:sameascountry>
+	<dbp:stockindex>CAC 40</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q648828</dbp:sameasstockindex>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5551.41</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.74</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.02</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.14</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.08</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">38625</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.08</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">241.71</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-57.65</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/21">
+	<dbp:stockindex>IBEX 35</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q938032</dbp:sameasstockindex>
+	<dbp:country>Spain</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q29</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8539.9</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.93</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.52</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.18</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30389</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.15</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">158.33</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.7</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.03</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/22">
+	<dbp:stockindex>IBEX 35</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q938032</dbp:sameasstockindex>
+	<dbp:country>Spain</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q29</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9549.2</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.98</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">59.88</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.12</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29565</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.14</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">155.49</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.94</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.02</dbp:ustreasury>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countrieseconomicdata/23">
+	<dbp:stockindex>IBEX 35</dbp:stockindex>
+	<dbp:sameasstockindex>https://www.wikidata.org/wiki/Q938032</dbp:sameasstockindex>
+	<dbp:country>Spain</dbp:country>
+	<dbp:sameascountry>https://www.wikidata.org/wiki/Q29</dbp:sameascountry>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00Z</dbp:year>
+	<dbp:indexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8073.7</dbp:indexprice>
+	<dbp:logindexprice rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.91</dbp:logindexprice>
+	<dbp:inflationrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0</dbp:inflationrate>
+	<dbp:oilprices rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.02</dbp:oilprices>
+	<dbp:exchangerate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.14</dbp:exchangerate>
+	<dbp:gdppercent rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.11</dbp:gdppercent>
+	<dbp:perCapitaIncome rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27057</dbp:perCapitaIncome>
+	<dbp:unemploymentrate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.16</dbp:unemploymentrate>
+	<dbp:manufacturingoutput rdf:datatype="http://www.w3.org/2001/XMLSchema#double">143.05</dbp:manufacturingoutput>
+	<dbp:tradebalance rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.1</dbp:tradebalance>
+	<dbp:ustreasury rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.01</dbp:ustreasury>
+</rdf:Description>
+
+</rdf:RDF>
