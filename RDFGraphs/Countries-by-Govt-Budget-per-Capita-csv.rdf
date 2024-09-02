@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbp="http://dbpedia.org/ontology/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:sch="https://schema.org/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://odws.univaq.it/countriesbudget/0">
+	<dbp:country>China</dbp:country>
+	<dbp:sameas>https://wikidata.org/wiki/Q148</dbp:sameas>
+	<dbp:budgetpercapita rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2735</dbp:budgetpercapita>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00Z</dbp:year>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countriesbudget/1">
+	<dbp:country>France</dbp:country>
+	<dbp:sameas>https://wikidata.org/wiki/Q142</dbp:sameas>
+	<dbp:budgetpercapita rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20960</dbp:budgetpercapita>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00Z</dbp:year>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countriesbudget/2">
+	<dbp:country>Germany</dbp:country>
+	<dbp:sameas>https://wikidata.org/wiki/Q183</dbp:sameas>
+	<dbp:budgetpercapita rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19550</dbp:budgetpercapita>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00Z</dbp:year>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countriesbudget/3">
+	<dbp:country>India</dbp:country>
+	<dbp:sameas>https://wikidata.org/wiki/Q668</dbp:sameas>
+	<dbp:budgetpercapita rdf:datatype="http://www.w3.org/2001/XMLSchema#int">559</dbp:budgetpercapita>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00Z</dbp:year>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countriesbudget/4">
+	<dbp:country>Japan</dbp:country>
+	<dbp:sameas>https://wikidata.org/wiki/Q17</dbp:sameas>
+	<dbp:budgetpercapita rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14964</dbp:budgetpercapita>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00Z</dbp:year>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countriesbudget/5">
+	<dbp:country>Spain</dbp:country>
+	<dbp:sameas>https://wikidata.org/wiki/Q29</dbp:sameas>
+	<dbp:budgetpercapita rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10863</dbp:budgetpercapita>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00Z</dbp:year>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countriesbudget/6">
+	<dbp:country>United Kingdom</dbp:country>
+	<dbp:sameas>https://wikidata.org/wiki/Q145</dbp:sameas>
+	<dbp:budgetpercapita rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17202</dbp:budgetpercapita>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00Z</dbp:year>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/countriesbudget/7">
+	<dbp:country>United States of America</dbp:country>
+	<dbp:sameas>https://wikidata.org/wiki/Q30</dbp:sameas>
+	<dbp:budgetpercapita rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20674</dbp:budgetpercapita>
+	<dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00Z</dbp:year>
+</rdf:Description>
+
+</rdf:RDF>
